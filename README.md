@@ -1,1 +1,1 @@
-# btc
+Bitcoin
